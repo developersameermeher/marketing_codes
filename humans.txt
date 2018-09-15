@@ -1,0 +1,19 @@
+# humanstxt.org
+
+/* TEAM */
+	Name: sameer meher
+	Contact: dmc.sameerkumarmeher@gmail.com
+	Twitter: @twitter_username
+	From: Bhubaneswar,odisha,India
+
+/* THANKS */
+
+	AMP HTML Template: Brandon Himpfen
+	Twitter: @brandonhimpfen
+	From: Toronto, Ontario, Canada
+
+/* SITE */
+	Last update: 2018/09/07
+	Language: English / French
+	Doctype: AMP HTML
+	IDE: Notepad, Editplus
